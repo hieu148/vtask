@@ -1,0 +1,29 @@
+.footer-container {
+    height: 80px;
+    background-color: lightgrey;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    font-family: Platypi,serif;
+}
+
+.footer-container img {
+    height: 50px;
+    width: 50px;
+    margin: 15px 20px 20px 30px;
+}
+
+.content {
+    flex: 1;
+}
+
+.social {
+    flex: 1;
+}
+
+.phonecall {
+    flex: 0.8;
+    display: flex;
+}

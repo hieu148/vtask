@@ -1,0 +1,9 @@
+.welcome-logo-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.welcome-logo-container img {
+    width: 700px;
+}

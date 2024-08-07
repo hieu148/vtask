@@ -1,0 +1,4 @@
+.starred-board-list {
+    display: flex;
+    flex-wrap: wrap;
+}

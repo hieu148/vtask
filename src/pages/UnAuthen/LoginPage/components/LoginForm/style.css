@@ -1,0 +1,27 @@
+.login-form-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.login-form {
+    width: 500px;
+    text-align: center;
+    font-family: Platypi,serif;
+}
+
+.login-form img {
+    width: 80px;
+}
+
+.login-form button {
+    margin-top: 10px;
+    width: 50%;
+    background-color: orange;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
